@@ -1,6 +1,7 @@
 # 🌍 World University Rankings 📚
 
 แอปพลิเคชัน **World University Rankings** สามารถ:
+
 ✅ เพิ่มข้อมูลมหาวิทยาลัย  
 ✅ ลบข้อมูลมหาวิทยาลัย  
 ✅ แก้ไขข้อมูลมหาวิทยาลัย  
@@ -9,7 +10,8 @@
 ---
 
 ## 📸 ตัวอย่างแอป
-![App Screenshot](https://github.com/DonyWeasley/quiz_uviversity/blob/main/Universityapp.png)
+<img src="https://github.com/DonyWeasley/quiz_uviversity/blob/main/Universityapp.png" alt="App Screenshot" width="300">
+
 
 ---
 
