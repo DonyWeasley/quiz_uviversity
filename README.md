@@ -8,6 +8,9 @@
 ✅ แสดงข้อมูลมหาวิทยาลัย  
 
 ---
+## 📸 ตัวอย่างแอป
+<img src="https://github.com/DonyWeasley/quiz_uviversity/blob/main/Universityapp.png" alt="App Screenshot" width="300">
+---
 
 ## 🎥 วิดีโอเดโม่
 [📺 คลิกที่นี่เพื่อดูวิดีโอ](https://drive.google.com/file/d/12ZycvKHA_VHIrVh-RQL6RBruGVZbLrrO/view?usp=sharing)
