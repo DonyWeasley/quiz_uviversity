@@ -9,7 +9,8 @@
 
 ---
 ## 📸 ตัวอย่างแอป
-<img src="https://(https://github.com/DonyWeasley/quiz_uviversity/blob/main/Universityapp.png)" alt="App Screenshot" width="300">
+<img src="https://github.com/DonyWeasley/quiz_uviversity/blob/main/Universityapp.png" alt="App Screenshot" width="300">
+
 ---
 
 ## 🎥 วิดีโอเดโม่
