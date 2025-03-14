@@ -9,7 +9,7 @@
 ---
 
 ## 📸 ตัวอย่างแอป
-![App Screenshot](https://raw.githubusercontent.com/username/repository/main/Screenshot_1741958240.png)
+![App Screenshot](https://github.com/DonyWeasley/quiz_uviversity/blob/main/Universityapp.png)
 
 ---
 
