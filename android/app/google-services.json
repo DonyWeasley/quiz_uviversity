@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100823363710",
+    "project_id": "supawadeem-951f4",
+    "storage_bucket": "supawadeem-951f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100823363710:android:d255c32125c9ba8867682f",
+        "android_client_info": {
+          "package_name": "com.example.university_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAPbVRuplmMzoDn1w6BtekO8hGsNC5kJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
